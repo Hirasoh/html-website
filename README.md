@@ -1,1 +1,1 @@
-# I have mades simple html-website  https://html-website.vercel.app/
+# I have made simple html-website  https://html-website.vercel.app/
